@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta name="dtb:fidus" content="4" />
+  </head>
+  <docTitle>
+    <text>SMA-body</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t0">
+      <navLabel><text>Cover</text></navLabel>
+      <content src="cover.xhtml#cover" />
+    </navPoint>
+    <navPoint id="t1">
+      <navLabel><text>Title page</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t0-1">
+      <navLabel><text>frontmatter</text></navLabel>
+      <content src="document-1.xhtml" />
+      <navPoint id="t_1_0-1">
+        <navLabel><text>SMA00Startseite</text></navLabel>
+        <content src="document-1.xhtml#_1_0" />
+      </navPoint>
+      <navPoint id="t_2_0-2">
+        <navLabel><text>SMAc. Impressum</text></navLabel>
+        <content src="document-2.xhtml#_2_0" />
+        <navPoint id="tH8688649-2">
+          <navLabel><text>Kontaktangaben</text></navLabel>
+          <content src="document-2.xhtml#H8688649" />
+        </navPoint>
+        <navPoint id="tH6377974-2">
+          <navLabel><text>Haftung für Inhalte</text></navLabel>
+          <content src="document-2.xhtml#H6377974" />
+        </navPoint>
+        <navPoint id="tH4792043-2">
+          <navLabel><text>Haftung für Links</text></navLabel>
+          <content src="document-2.xhtml#H4792043" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="t_3_0-3">
+        <navLabel><text>SMAb. Über Uns</text></navLabel>
+        <content src="document-3.xhtml#_3_0" />
+        <navPoint id="tH7871147-3">
+          <navLabel><text>Finanzierung</text></navLabel>
+          <content src="document-3.xhtml#H7871147" />
+        </navPoint>
+        <navPoint id="tH6184088-3">
+          <navLabel><text>Open Access</text></navLabel>
+          <content src="document-3.xhtml#H6184088" />
+        </navPoint>
+        <navPoint id="tH8887582-3">
+          <navLabel><text>Urheberrechtserklärung &amp; Lizenz</text></navLabel>
+          <content src="document-3.xhtml#H8887582" />
+        </navPoint>
+        <navPoint id="tH7706711-3">
+          <navLabel><text>Helfen Sie uns, das Lehrbuch zu verbessern</text></navLabel>
+          <content src="document-3.xhtml#H7706711" />
+        </navPoint>
+        <navPoint id="tH6104650-3">
+          <navLabel><text>Nachhaltigkeit und Weiterentwicklung</text></navLabel>
+          <content src="document-3.xhtml#H6104650" />
+        </navPoint>
+        <navPoint id="tH7839863-3">
+          <navLabel><text>Methode</text></navLabel>
+          <content src="document-3.xhtml#H7839863" />
+        </navPoint>
+        <navPoint id="tentstehungsprozess-3">
+          <navLabel><text>Entstehungsprozess</text></navLabel>
+          <content src="document-3.xhtml#entstehungsprozess" />
+        </navPoint>
+        <navPoint id="tH269972-3">
+          <navLabel><text>Haftungsausschluss (Disclaimer)</text></navLabel>
+          <content src="document-3.xhtml#H269972" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="t_4_0-4">
+        <navLabel><text>SMAa. Beteiligte</text></navLabel>
+        <content src="document-4.xhtml#_4_0" />
+        <navPoint id="tH8440143-4">
+          <navLabel><text>Autoren/innen</text></navLabel>
+          <content src="document-4.xhtml#H8440143" />
+        </navPoint>
+        <navPoint id="tH3913069-4">
+          <navLabel><text>Anerkennung &amp; Danksagung</text></navLabel>
+          <content src="document-4.xhtml#H3913069" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t0-5">
+      <navLabel><text>chapter</text></navLabel>
+      <content src="document-5.xhtml" />
+      <navPoint id="t_5_0-5">
+        <navLabel><text>SMA01. Allgmeine &amp; Grundlagen</text></navLabel>
+        <content src="document-5.xhtml#_5_0" />
+        <navPoint id="tH2448656-5">
+          <navLabel><text>Sozialmedizin</text></navLabel>
+          <content src="document-5.xhtml#H2448656" />
+          <navPoint id="tH7228893-5">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-5.xhtml#H7228893" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH4022135-5">
+          <navLabel><text>Öffentlicher Gesundheitsdienst</text></navLabel>
+          <content src="document-5.xhtml#H4022135" />
+        </navPoint>
+        <navPoint id="tH2474639-5">
+          <navLabel><text>Gesetzliche Grundlagen &amp; Politik</text></navLabel>
+          <content src="document-5.xhtml#H2474639" />
+        </navPoint>
+        <navPoint id="tH6222168-5">
+          <navLabel><text>Sozialmedizinische (Fach)Assistent/innen</text></navLabel>
+          <content src="document-5.xhtml#H6222168" />
+          <navPoint id="tH5560992-5">
+            <navLabel><text>Gesetzliche Grundlage für sozialmedizinische Assistent/innen</text></navLabel>
+            <content src="document-5.xhtml#H5560992" />
+          </navPoint>
+          <navPoint id="tH7052391-5">
+            <navLabel><text>Weiterbildung zur/m SMA</text></navLabel>
+            <content src="document-5.xhtml#H7052391" />
+            <navPoint id="tH9860984-5">
+              <navLabel><text>Struktur</text></navLabel>
+              <content src="document-5.xhtml#H9860984" />
+            </navPoint>
+            <navPoint id="tH8369820-5">
+              <navLabel><text>Inhalte</text></navLabel>
+              <content src="document-5.xhtml#H8369820" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH5588977-5">
+            <navLabel><text>Abgrenzung zu anderen Berufsgruppen</text></navLabel>
+            <content src="document-5.xhtml#H5588977" />
+          </navPoint>
+          <navPoint id="tH7877900-5">
+            <navLabel><text>Personal- und Verwaltungsrechtliche Aspekte</text></navLabel>
+            <content src="document-5.xhtml#H7877900" />
+            <navPoint id="tH3422091-5">
+              <navLabel><text>Typische Stellenbeschreibung einer SMA</text></navLabel>
+              <content src="document-5.xhtml#H3422091" />
+            </navPoint>
+            <navPoint id="tH6276990-5">
+              <navLabel><text>Eingruppierung</text></navLabel>
+              <content src="document-5.xhtml#H6276990" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH7541890-5">
+            <navLabel><text>Bundesfachverband SMA e.V.</text></navLabel>
+            <content src="document-5.xhtml#H7541890" />
+            <navPoint id="tH9640170-5">
+              <navLabel><text>Leitbild der SMA</text></navLabel>
+              <content src="document-5.xhtml#H9640170" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH7697796-5">
+            <navLabel><text>Ausblick</text></navLabel>
+            <content src="document-5.xhtml#H7697796" />
+            <navPoint id="tH6144472-5">
+              <navLabel><text>Ziel:</text></navLabel>
+              <content src="document-5.xhtml#H6144472" />
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="t_6_0-6">
+        <navLabel><text>SMA02. Fachliche Aufgaben</text></navLabel>
+        <content src="document-6.xhtml#_6_0" />
+        <navPoint id="tH6538316-6">
+          <navLabel><text>Gesundheitsförderung / Prävention</text></navLabel>
+          <content src="document-6.xhtml#H6538316" />
+          <navPoint id="tH4709784-6">
+            <navLabel><text>Prävention</text></navLabel>
+            <content src="document-6.xhtml#H4709784" />
+            <navPoint id="tH8080838-6">
+              <navLabel><text>Primäre Prävention</text></navLabel>
+              <content src="document-6.xhtml#H8080838" />
+            </navPoint>
+            <navPoint id="tH2441420-6">
+              <navLabel><text>Sekundäre Prävention</text></navLabel>
+              <content src="document-6.xhtml#H2441420" />
+            </navPoint>
+            <navPoint id="tH7459095-6">
+              <navLabel><text>Tertiäre Prävention</text></navLabel>
+              <content src="document-6.xhtml#H7459095" />
+            </navPoint>
+            <navPoint id="tH3480446-6">
+              <navLabel><text>Verhaltens- und Verhältnisprävention</text></navLabel>
+              <content src="document-6.xhtml#H3480446" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH4230598-6">
+            <navLabel><text>Gesundheitsförderung</text></navLabel>
+            <content src="document-6.xhtml#H4230598" />
+          </navPoint>
+          <navPoint id="tH4078474-6">
+            <navLabel><text>Präventionsgesetz</text></navLabel>
+            <content src="document-6.xhtml#H4078474" />
+          </navPoint>
+          <navPoint id="tH1006415-6">
+            <navLabel><text>Präventionsketten auf kommunaler Ebene</text></navLabel>
+            <content src="document-6.xhtml#H1006415" />
+            <navPoint id="tH7116222-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H7116222" />
+            </navPoint>
+            <navPoint id="tH8202910-6">
+              <navLabel><text>Definition</text></navLabel>
+              <content src="document-6.xhtml#H8202910" />
+            </navPoint>
+            <navPoint id="tH3107822-6">
+              <navLabel><text>Ziele</text></navLabel>
+              <content src="document-6.xhtml#H3107822" />
+            </navPoint>
+            <navPoint id="tH8063070-6">
+              <navLabel><text>Akteure</text></navLabel>
+              <content src="document-6.xhtml#H8063070" />
+            </navPoint>
+            <navPoint id="tH6006041-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H6006041" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH7210121-6">
+            <navLabel><text>Präventionsangebot im Rahmen der kommunalen Präventionskette</text></navLabel>
+            <content src="document-6.xhtml#H7210121" />
+            <navPoint id="tH6404794-6">
+              <navLabel><text>Definition</text></navLabel>
+              <content src="document-6.xhtml#H6404794" />
+            </navPoint>
+            <navPoint id="tH3403756-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H3403756" />
+            </navPoint>
+            <navPoint id="tH6071125-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H6071125" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH6867173-6">
+            <navLabel><text>Eltern-/ Mütter-/ Väterberatung</text></navLabel>
+            <content src="document-6.xhtml#H6867173" />
+            <navPoint id="tH8622940-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H8622940" />
+            </navPoint>
+            <navPoint id="tH3503528-6">
+              <navLabel><text>Definition</text></navLabel>
+              <content src="document-6.xhtml#H3503528" />
+            </navPoint>
+            <navPoint id="tH8778645-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H8778645" />
+            </navPoint>
+            <navPoint id="tH9137487-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H9137487" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH9119339-6">
+            <navLabel><text>Frühe Hilfen</text></navLabel>
+            <content src="document-6.xhtml#H9119339" />
+            <navPoint id="tH5207414-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H5207414" />
+            </navPoint>
+            <navPoint id="tH8150153-6">
+              <navLabel><text>Methode/ Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H8150153" />
+            </navPoint>
+            <navPoint id="tH168852-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H168852" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH2742959-6">
+            <navLabel><text>Aufsuchender sozialmedizinischer Kinderschutz, sozialmedizinische gemeindebezogene Aufgaben</text></navLabel>
+            <content src="document-6.xhtml#H2742959" />
+            <navPoint id="tH2826009-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H2826009" />
+            </navPoint>
+            <navPoint id="tH1632007-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H1632007" />
+            </navPoint>
+            <navPoint id="tH1665552-6">
+              <navLabel><text>Definition</text></navLabel>
+              <content src="document-6.xhtml#H1665552" />
+            </navPoint>
+            <navPoint id="tH5664176-6">
+              <navLabel><text>Methode</text></navLabel>
+              <content src="document-6.xhtml#H5664176" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH4899217-6">
+            <navLabel><text>Fachspezifische Kompetenzen</text></navLabel>
+            <content src="document-6.xhtml#H4899217" />
+          </navPoint>
+          <navPoint id="tH9616295-6">
+            <navLabel><text>Kindergarten-Screening</text></navLabel>
+            <content src="document-6.xhtml#H9616295" />
+            <navPoint id="tH9110779-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H9110779" />
+            </navPoint>
+            <navPoint id="tH3245274-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H3245274" />
+            </navPoint>
+            <navPoint id="tH6559400-6">
+              <navLabel><text>Methode und Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H6559400" />
+            </navPoint>
+            <navPoint id="tH8550353-6">
+              <navLabel><text>Fachspezifische Kompetenzen der SMA:</text></navLabel>
+              <content src="document-6.xhtml#H8550353" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH2782130-6">
+            <navLabel><text>Impfprävention</text></navLabel>
+            <content src="document-6.xhtml#H2782130" />
+            <navPoint id="tH6406441-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H6406441" />
+            </navPoint>
+            <navPoint id="tH4648048-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H4648048" />
+            </navPoint>
+            <navPoint id="tH6083009-6">
+              <navLabel><text>Methode und Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H6083009" />
+            </navPoint>
+            <navPoint id="tH4219925-6">
+              <navLabel><text>Fachspezifische Kompetenzen</text></navLabel>
+              <content src="document-6.xhtml#H4219925" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH5940761-6">
+            <navLabel><text>Präventionsprogramm: Karies-/Risikokind-Begleitung</text></navLabel>
+            <content src="document-6.xhtml#H5940761" />
+            <navPoint id="tH573423-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H573423" />
+            </navPoint>
+            <navPoint id="tH6643188-6">
+              <navLabel><text>Definition</text></navLabel>
+              <content src="document-6.xhtml#H6643188" />
+            </navPoint>
+            <navPoint id="tH9519648-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H9519648" />
+            </navPoint>
+            <navPoint id="tH3259143-6">
+              <navLabel><text>Statistische Erfassung</text></navLabel>
+              <content src="document-6.xhtml#H3259143" />
+            </navPoint>
+            <navPoint id="tH5020817-6">
+              <navLabel><text>Fachspezifische Kompetenzen der SMA:</text></navLabel>
+              <content src="document-6.xhtml#H5020817" />
+            </navPoint>
+            <navPoint id="tH9295240-6">
+              <navLabel><text>Ziele</text></navLabel>
+              <content src="document-6.xhtml#H9295240" />
+              <navPoint id="tH2436731-6">
+                <navLabel><text>Praxisbeispiel</text></navLabel>
+                <content src="document-6.xhtml#H2436731" />
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH2579070-6">
+            <navLabel><text>Schuleingangsuntersuchung</text></navLabel>
+            <content src="document-6.xhtml#H2579070" />
+            <navPoint id="tH8679773-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H8679773" />
+            </navPoint>
+            <navPoint id="tH4425374-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H4425374" />
+            </navPoint>
+            <navPoint id="tH2145821-6">
+              <navLabel><text>Methode und Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H2145821" />
+            </navPoint>
+            <navPoint id="tH3617329-6">
+              <navLabel><text>Fachspezifische Kompetenzen der SMA:</text></navLabel>
+              <content src="document-6.xhtml#H3617329" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH6343683-6">
+            <navLabel><text>Klasse 2000</text></navLabel>
+            <content src="document-6.xhtml#H6343683" />
+            <navPoint id="tH5260767-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H5260767" />
+            </navPoint>
+            <navPoint id="tH7057896-6">
+              <navLabel><text>Methode</text></navLabel>
+              <content src="document-6.xhtml#H7057896" />
+            </navPoint>
+            <navPoint id="tH9742377-6">
+              <navLabel><text>Ziele</text></navLabel>
+              <content src="document-6.xhtml#H9742377" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH2478857-6">
+            <navLabel><text>AIDS-Parcours</text></navLabel>
+            <content src="document-6.xhtml#H2478857" />
+            <navPoint id="tH8087024-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H8087024" />
+            </navPoint>
+            <navPoint id="tH9902340-6">
+              <navLabel><text>Ziel / Definition</text></navLabel>
+              <content src="document-6.xhtml#H9902340" />
+            </navPoint>
+            <navPoint id="tH7455665-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H7455665" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH8680301-6">
+            <navLabel><text>Herz-Aktionstag</text></navLabel>
+            <content src="document-6.xhtml#H8680301" />
+            <navPoint id="tH7074749-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H7074749" />
+            </navPoint>
+            <navPoint id="tH6399358-6">
+              <navLabel><text>Ziele</text></navLabel>
+              <content src="document-6.xhtml#H6399358" />
+            </navPoint>
+            <navPoint id="tH5717509-6">
+              <navLabel><text>Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H5717509" />
+            </navPoint>
+            <navPoint id="tH7725672-6">
+              <navLabel><text>Feste Stationen planen</text></navLabel>
+              <content src="document-6.xhtml#H7725672" />
+            </navPoint>
+            <navPoint id="tH5883958-6">
+              <navLabel><text>Fachspezifische Kompetenzen</text></navLabel>
+              <content src="document-6.xhtml#H5883958" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH5750399-6">
+            <navLabel><text>Beratung</text></navLabel>
+            <content src="document-6.xhtml#H5750399" />
+          </navPoint>
+          <navPoint id="tH2892620-6">
+            <navLabel><text>Fachberatung Hören, Sprache und Sehen</text></navLabel>
+            <content src="document-6.xhtml#H2892620" />
+            <navPoint id="tH5473947-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H5473947" />
+            </navPoint>
+            <navPoint id="tH55860-6">
+              <navLabel><text>Ziel/ Definition</text></navLabel>
+              <content src="document-6.xhtml#H55860" />
+            </navPoint>
+            <navPoint id="tH5207131-6">
+              <navLabel><text>Methode und Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H5207131" />
+            </navPoint>
+            <navPoint id="tH3571892-6">
+              <navLabel><text>Grundsätzliche Arbeiten</text></navLabel>
+              <content src="document-6.xhtml#H3571892" />
+            </navPoint>
+            <navPoint id="tH8605704-6">
+              <navLabel><text>Fachspezifische Kompetenzen:</text></navLabel>
+              <content src="document-6.xhtml#H8605704" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH4576102-6">
+            <navLabel><text>Beratungsstelle für Früherkennung und Frühförderung (BFF)</text></navLabel>
+            <content src="document-6.xhtml#H4576102" />
+            <navPoint id="tH7115116-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H7115116" />
+            </navPoint>
+            <navPoint id="tH8712667-6">
+              <navLabel><text>Ziel/Definition</text></navLabel>
+              <content src="document-6.xhtml#H8712667" />
+            </navPoint>
+            <navPoint id="tH6040264-6">
+              <navLabel><text>Methode und Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H6040264" />
+            </navPoint>
+            <navPoint id="tH6624047-6">
+              <navLabel><text>Fachspezifische Kompetenzen</text></navLabel>
+              <content src="document-6.xhtml#H6624047" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH2230580-6">
+            <navLabel><text>Schwangerschaftskonfliktberatung / Familienberatung</text></navLabel>
+            <content src="document-6.xhtml#H2230580" />
+            <navPoint id="tH6759183-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H6759183" />
+            </navPoint>
+            <navPoint id="tH4917391-6">
+              <navLabel><text>Ziele / Definition</text></navLabel>
+              <content src="document-6.xhtml#H4917391" />
+            </navPoint>
+            <navPoint id="tH7799638-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H7799638" />
+            </navPoint>
+            <navPoint id="tH9920234-6">
+              <navLabel><text>Fachspezifische Kompetenzen</text></navLabel>
+              <content src="document-6.xhtml#H9920234" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH3903930-6">
+            <navLabel><text>Beratung nach dem Prostituiertenschutzgesetz (§ 10 ProstSchG)</text></navLabel>
+            <content src="document-6.xhtml#H3903930" />
+            <navPoint id="tH6213210-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H6213210" />
+            </navPoint>
+            <navPoint id="tH6934833-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H6934833" />
+            </navPoint>
+            <navPoint id="tH3751008-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H3751008" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH7143545-6">
+            <navLabel><text>Infektionsschutz</text></navLabel>
+            <content src="document-6.xhtml#H7143545" />
+            <navPoint id="tH4498655-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H4498655" />
+            </navPoint>
+            <navPoint id="tH4553865-6">
+              <navLabel><text>Ziel</text></navLabel>
+              <content src="document-6.xhtml#H4553865" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH132385-6">
+            <navLabel><text>HIV / STI</text></navLabel>
+            <content src="document-6.xhtml#H132385" />
+            <navPoint id="tH7578968-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H7578968" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH3942469-6">
+            <navLabel><text>Erstaufnahmeuntersuchungen Asylbegehrender</text></navLabel>
+            <content src="document-6.xhtml#H3942469" />
+            <navPoint id="tH8385745-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H8385745" />
+            </navPoint>
+            <navPoint id="tH370154-6">
+              <navLabel><text>Definition</text></navLabel>
+              <content src="document-6.xhtml#H370154" />
+              <navPoint id="tH1439639-6">
+                <navLabel><text>Standardisierte Erstaufnahmeuntersuchung gemäß Asylgesetz:</text></navLabel>
+                <content src="document-6.xhtml#H1439639" />
+              </navPoint>
+              <navPoint id="tH8875689-6">
+                <navLabel><text>Umfang der Erstuntersuchungen</text></navLabel>
+                <content src="document-6.xhtml#H8875689" />
+              </navPoint>
+              <navPoint id="tH4668462-6">
+                <navLabel><text>Ablauf</text></navLabel>
+                <content src="document-6.xhtml#H4668462" />
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH8106954-6">
+            <navLabel><text>Ermittlungen nach IfSG und Tuberkulosevorsorge</text></navLabel>
+            <content src="document-6.xhtml#H8106954" />
+            <navPoint id="tH6028723-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H6028723" />
+            </navPoint>
+            <navPoint id="tH8256963-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H8256963" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH6934439-6">
+            <navLabel><text>Tuberkulose Vorsorge</text></navLabel>
+            <content src="document-6.xhtml#H6934439" />
+            <navPoint id="tH1713575-6">
+              <navLabel><text>Hinterrund</text></navLabel>
+              <content src="document-6.xhtml#H1713575" />
+            </navPoint>
+            <navPoint id="tH6368089-6">
+              <navLabel><text>Ziel / Definition</text></navLabel>
+              <content src="document-6.xhtml#H6368089" />
+            </navPoint>
+            <navPoint id="tH1362191-6">
+              <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+              <content src="document-6.xhtml#H1362191" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH3062871-6">
+            <navLabel><text>Belehrung nach dem Infektionsschutzgesetz (“Lebensmittelzeugnis” nach § 43 IfSG )</text></navLabel>
+            <content src="document-6.xhtml#H3062871" />
+            <navPoint id="tH4950700-6">
+              <navLabel><text>Hintergrund</text></navLabel>
+              <content src="document-6.xhtml#H4950700" />
+            </navPoint>
+            <navPoint id="tH3449157-6">
+              <navLabel><text>Methode &amp; Durchführung:</text></navLabel>
+              <content src="document-6.xhtml#H3449157" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH2570832-6">
+            <navLabel><text>Hygienebegehungen Podologie, Nagelstudio etc.</text></navLabel>
+            <content src="document-6.xhtml#H2570832" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="t_7_0-7">
+        <navLabel><text>SMA03. Management, Projektarbeit, Netzwerke</text></navLabel>
+        <content src="document-7.xhtml#_7_0" />
+        <navPoint id="tH8610504-7">
+          <navLabel><text>Managementaufgaben</text></navLabel>
+          <content src="document-7.xhtml#H8610504" />
+          <navPoint id="tH7750854-7">
+            <navLabel><text>Definition allgemein</text></navLabel>
+            <content src="document-7.xhtml#H7750854" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH9665923-7">
+          <navLabel><text>Projektarbeit</text></navLabel>
+          <content src="document-7.xhtml#H9665923" />
+          <navPoint id="tH6071831-7">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-7.xhtml#H6071831" />
+            <navPoint id="tH8956123-7">
+              <navLabel><text>Warum überhaupt Projektmanagement?</text></navLabel>
+              <content src="document-7.xhtml#H8956123" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH342369-7">
+            <navLabel><text>Veranstaltungsmanagement</text></navLabel>
+            <content src="document-7.xhtml#H342369" />
+          </navPoint>
+          <navPoint id="tH6907636-7">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-7.xhtml#H6907636" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH4810870-7">
+          <navLabel><text>Netzwerkmanagement / Arbeitsgruppen</text></navLabel>
+          <content src="document-7.xhtml#H4810870" />
+        </navPoint>
+        <navPoint id="tH6078167-7">
+          <navLabel><text>Arbeitsgruppen</text></navLabel>
+          <content src="document-7.xhtml#H6078167" />
+          <navPoint id="tH3353755-7">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-7.xhtml#H3353755" />
+          </navPoint>
+          <navPoint id="tH5331577-7">
+            <navLabel><text>Zusammenfassung</text></navLabel>
+            <content src="document-7.xhtml#H5331577" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH2560836-7">
+          <navLabel><text>Regionale Entwicklung</text></navLabel>
+          <content src="document-7.xhtml#H2560836" />
+        </navPoint>
+        <navPoint id="tH630037-7">
+          <navLabel><text>Gesundheitswirtschaft</text></navLabel>
+          <content src="document-7.xhtml#H630037" />
+          <navPoint id="tH1874301-7">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-7.xhtml#H1874301" />
+          </navPoint>
+          <navPoint id="tH2360549-7">
+            <navLabel><text>Hintergrund</text></navLabel>
+            <content src="document-7.xhtml#H2360549" />
+          </navPoint>
+          <navPoint id="tH9418166-7">
+            <navLabel><text>Aufgaben</text></navLabel>
+            <content src="document-7.xhtml#H9418166" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH710039-7">
+          <navLabel><text>Gesundheitsregion</text></navLabel>
+          <content src="document-7.xhtml#H710039" />
+          <navPoint id="tH7549532-7">
+            <navLabel><text>Hintergrund</text></navLabel>
+            <content src="document-7.xhtml#H7549532" />
+          </navPoint>
+          <navPoint id="tH9852782-7">
+            <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+            <content src="document-7.xhtml#H9852782" />
+          </navPoint>
+          <navPoint id="tH2173175-7">
+            <navLabel><text>Ziel</text></navLabel>
+            <content src="document-7.xhtml#H2173175" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH4904014-7">
+          <navLabel><text>Öffentlichkeitsarbeit</text></navLabel>
+          <content src="document-7.xhtml#H4904014" />
+          <navPoint id="tH7752340-7">
+            <navLabel><text>Hintergrund</text></navLabel>
+            <content src="document-7.xhtml#H7752340" />
+          </navPoint>
+          <navPoint id="tH3568499-7">
+            <navLabel><text>Ziele</text></navLabel>
+            <content src="document-7.xhtml#H3568499" />
+          </navPoint>
+          <navPoint id="tH1178403-7">
+            <navLabel><text>Methode &amp; Durchführung</text></navLabel>
+            <content src="document-7.xhtml#H1178403" />
+          </navPoint>
+          <navPoint id="tH5119988-7">
+            <navLabel><text>Formalia</text></navLabel>
+            <content src="document-7.xhtml#H5119988" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH7611252-7">
+          <navLabel><text>Flyer und Infomaterialien erstellen</text></navLabel>
+          <content src="document-7.xhtml#H7611252" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="t_8_0-8">
+        <navLabel><text>SMA04. Gesundheitsberichterstattung, Statistik, Evaluation</text></navLabel>
+        <content src="document-8.xhtml#_8_0" />
+        <navPoint id="tH5671180-8">
+          <navLabel><text>Gesundheitsberichterstattung</text></navLabel>
+          <content src="document-8.xhtml#H5671180" />
+          <navPoint id="tH7911122-8">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-8.xhtml#H7911122" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH8103549-8">
+          <navLabel><text>Statistik</text></navLabel>
+          <content src="document-8.xhtml#H8103549" />
+          <navPoint id="tH8710495-8">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-8.xhtml#H8710495" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="tH657085-8">
+          <navLabel><text>Epidemiologie</text></navLabel>
+          <content src="document-8.xhtml#H657085" />
+          <navPoint id="tH3523995-8">
+            <navLabel><text>Definition</text></navLabel>
+            <content src="document-8.xhtml#H3523995" />
+          </navPoint>
+          <navPoint id="tH4386194-8">
+            <navLabel><text>Zusammenhang von Gesundheitsberichterstattung, Statistik und Epidemiologie</text></navLabel>
+            <content src="document-8.xhtml#H4386194" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t0-9">
+      <navLabel><text>appendix</text></navLabel>
+      <content src="document-9.xhtml" />
+      <navPoint id="t_9_0-9">
+        <navLabel><text>SMAAnnex-Abkürzungen</text></navLabel>
+        <content src="document-9.xhtml#_9_0" />
+      </navPoint>
+      <navPoint id="t_10_0-10">
+        <navLabel><text>SMAAnnex-Websites</text></navLabel>
+        <content src="document-10.xhtml#_10_0" />
+      </navPoint>
+      <navPoint id="t2">
+        <navLabel><text>Copyright</text></navLabel>
+        <content src="copyright.xhtml#copyright" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
